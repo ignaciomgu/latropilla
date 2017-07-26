@@ -16,13 +16,13 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--// Meta tag Keywords -->
 <link rel="shortcut icon" type="image/x-icon" href="images/icon.png" />
 <!-- css files -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> <!-- Bootstrap-Core-CSS -->
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" /> <!-- Style-CSS --> 
-<link rel="stylesheet" href="css/font-awesome.css"> <!-- Font-Awesome-Icons-CSS -->
-<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" /> <!-- Flexslider-CSS -->
-<link rel="stylesheet" href="css/team.css" type="text/css" media="screen" property="" /> <!-- Team-CSS -->
-<link rel="stylesheet" href="css/smoothbox.css" type='text/css' media="all" /> <!-- Smoothbox-CSS -->
-<link href="css/wickedpicker.css" rel="stylesheet" type='text/css' media="all" /> <!-- Time-script-CSS -->
+<link href="stylesheets/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> <!-- Bootstrap-Core-CSS -->
+<link href="stylesheets/style.css" rel="stylesheet" type="text/css" media="all" /> <!-- Style-CSS --> 
+<link rel="stylesheet" href="stylesheets/font-awesome.css"> <!-- Font-Awesome-Icons-CSS -->
+<link rel="stylesheet" href="stylesheets/flexslider.css" type="text/css" media="screen" property="" /> <!-- Flexslider-CSS -->
+<link rel="stylesheet" href="stylesheets/team.css" type="text/css" media="screen" property="" /> <!-- Team-CSS -->
+<link rel="stylesheet" href="stylesheets/smoothbox.css" type='text/css' media="all" /> <!-- Smoothbox-CSS -->
+<link href="stylesheets/wickedpicker.css" rel="stylesheet" type='text/css' media="all" /> <!-- Time-script-CSS -->
 <!-- //css files -->
 <!-- online-fonts -->
 <link href="//fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet">
@@ -806,7 +806,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 	<!-- //for-bottom-to-top smooth scrolling -->
 	<!-- Calendar -->
-	<link rel="stylesheet" href="css/jquery-ui.css" />
+	<link rel="stylesheet" href="stylesheets/jquery-ui.css" />
 	<script src="js/jquery-ui.js"></script>
 		<script>
 			$(function() {
