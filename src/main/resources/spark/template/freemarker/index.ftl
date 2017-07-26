@@ -16,6 +16,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--// Meta tag Keywords -->
 <link rel="shortcut icon" type="image/x-icon" href="images/icon.png" />
 <!-- css files -->
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 <link href="stylesheets/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> <!-- Bootstrap-Core-CSS -->
 <link href="stylesheets/style.css" rel="stylesheet" type="text/css" media="all" /> <!-- Style-CSS --> 
 <link rel="stylesheet" href="stylesheets/font-awesome.css"> <!-- Font-Awesome-Icons-CSS -->
