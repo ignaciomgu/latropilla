@@ -1,9 +1,3 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,10 +13,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf">
-
 <link href="stylesheets/bootstrap.css" rel="stylesheet" type="text/css" media="all" /> <!-- Bootstrap-Core-CSS -->
 <link href="stylesheets/style.css" rel="stylesheet" type="text/css" media="all" /> <!-- Style-CSS --> 
-<link rel="stylesheet" href="stylesheets/font-awesome.css"> <!-- Font-Awesome-Icons-CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <!-- Font-Awesome-Icons-CSS -->
 <link rel="stylesheet" href="stylesheets/flexslider.css" type="text/css" media="screen" property="" /> <!-- Flexslider-CSS -->
 <link rel="stylesheet" href="stylesheets/team.css" type="text/css" media="screen" property="" /> <!-- Team-CSS -->
 <link rel="stylesheet" href="stylesheets/smoothbox.css" type='text/css' media="all" /> <!-- Smoothbox-CSS -->
